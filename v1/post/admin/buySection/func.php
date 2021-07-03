@@ -70,11 +70,3 @@ function ChangeCard(
         }
     }
 }
-
-
-// substr($productInfo_1, 0, 22)
-// substr($productInfo_2, 0, 22)
-// substr($productInfo_3, 0, 22)
-// substr($productInfo_4, 0, 22)
-// substr($productInfo_5, 0, 22)
-// substr($productInfo_6, 0, 22)
